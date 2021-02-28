@@ -32,3 +32,4 @@ class CursoSerializer(serializers.ModelSerializer):
             'criacao',
             'ativo'
         )
+
